@@ -4,7 +4,7 @@ A complete full-stack e-commerce website built with **React**, **Node.js + Expre
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 Books Cart/
@@ -33,7 +33,7 @@ Books Cart/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -85,7 +85,7 @@ npm run dev         # Starts on http://localhost:5173
 
 ---
 
-## 🔑 Test Credentials
+##  Test Credentials
 
 | Role  | Email                  | Password  |
 |-------|------------------------|-----------|
@@ -96,7 +96,7 @@ npm run dev         # Starts on http://localhost:5173
 
 ---
 
-## 📡 API Documentation
+##  API Documentation
 
 ### Base URL: `http://localhost:5000/api`
 
@@ -189,7 +189,7 @@ npm run dev         # Starts on http://localhost:5173
 
 ---
 
-## 🔒 Security Features
+##  Security Features
 
 - **JWT Authentication** with Bearer tokens
 - **bcrypt** password hashing (salt rounds: 10)
@@ -201,7 +201,7 @@ npm run dev         # Starts on http://localhost:5173
 
 ---
 
-## 📦 Features
+##  Features
 
 ### User Features
 - Browse products with search
@@ -218,7 +218,7 @@ npm run dev         # Starts on http://localhost:5173
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer      | Technology                          |
 |------------|-------------------------------------|
@@ -231,7 +231,7 @@ npm run dev         # Starts on http://localhost:5173
 
 ---
 
-## 🏭 Production Build
+##  Production Build
 
 ### Frontend
 ```bash
@@ -247,7 +247,7 @@ NODE_ENV=production node server.js
 
 ---
 
-## 🎓 Interview Explanation
+##  Interview Explanation
 
 ### Architecture
 This project follows a **3-tier architecture**: Frontend (React SPA) → Backend (Express REST API) → Database (MySQL). The backend uses **MVC pattern** with controllers handling business logic, routes defining endpoints, and middlewares for authentication and error handling.
