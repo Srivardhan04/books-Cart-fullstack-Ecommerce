@@ -1,6 +1,6 @@
  # Books Cart - Full-Stack E-Commerce Application.
 
-A complete full-stack e-commerce website built with **React**, **Node.js + Express**, and **MySQL**.
+  A complete full-stack e-commerce website built with **React**, **Node.js + Express**, and **MySQL**.
 
 ---
 
