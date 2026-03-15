@@ -9,3 +9,4 @@
 [2026-03-13T13:02:18.577Z] fix memory spike during large file uploads
 [2026-03-13T15:01:37.702Z] refactor database queries to use query builder
 [2026-03-14T04:01:10.180Z] add retry mechanism with exponential backoff
+[2026-03-15T11:59:23.738Z] add Prometheus metrics endpoint
