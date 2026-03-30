@@ -1,8 +1,0 @@
-[2026-03-23T07:26:05.763Z] update license headers for new year
-[2026-03-24T15:50:30.173Z] update nginx reverse proxy configuration
-[2026-03-24T16:21:15.432Z] update cron expression for new maintenance window
-[2026-03-25T10:49:31.210Z] fix memory leak in event listener cleanup
-[2026-03-26T04:02:37.519Z] increase test coverage to 85%
-[2026-03-27T11:22:32.001Z] sync package-lock after merge
-[2026-03-28T05:34:23.307Z] batch database writes for better throughput
-[2026-03-29T08:19:32.845Z] fix token refresh not updating stored credentials
