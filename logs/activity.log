@@ -3,3 +3,4 @@
 [2026-03-31T15:12:43.336Z] document database migration process
 [2026-03-31T16:52:34.662Z] fix test data setup for isolated test runs
 [2026-04-01T04:13:46.510Z] enforce single quotes across codebase
+[2026-04-01T04:47:10.803Z] clarify deployment steps in README
