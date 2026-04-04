@@ -6,3 +6,4 @@
 [2026-04-01T04:47:10.803Z] clarify deployment steps in README
 [2026-04-02T08:40:28.233Z] add contributing guidelines
 [2026-04-03T06:18:02.432Z] resolve flaky timeout in database connection
+[2026-04-04T04:12:04.667Z] update seed data for local development
