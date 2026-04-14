@@ -2,3 +2,4 @@
 [2026-04-13T11:37:28.414Z] remove unused packages from package.json
 [2026-04-13T15:08:22.309Z] add regression test for pagination bug
 [2026-04-14T04:25:38.807Z] update license headers for new year
+[2026-04-14T15:22:22.666Z] add Prometheus metrics endpoint
