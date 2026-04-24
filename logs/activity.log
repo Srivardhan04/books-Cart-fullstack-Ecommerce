@@ -3,3 +3,4 @@
 [2026-04-21T12:36:25.838Z] move business logic out of controller
 [2026-04-22T13:31:11.910Z] add environment-specific config files
 [2026-04-23T09:03:15.013Z] add real-time status updates via SSE
+[2026-04-24T10:21:37.622Z] handle missing env variable gracefully
