@@ -5,3 +5,4 @@
 [2026-04-23T09:03:15.013Z] add real-time status updates via SSE
 [2026-04-24T10:21:37.622Z] handle missing env variable gracefully
 [2026-04-25T07:01:22.703Z] add health check endpoint with detailed status
+[2026-04-26T04:41:02.409Z] clean up orphaned database migration files
