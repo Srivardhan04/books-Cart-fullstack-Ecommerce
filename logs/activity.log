@@ -1,2 +1,3 @@
 [2026-04-27T09:36:11.844Z] resolve infinite loop in recursive parser
 [2026-04-28T05:59:12.327Z] add rate limiting to public endpoints
+[2026-04-28T13:02:21.126Z] add support for batch processing
