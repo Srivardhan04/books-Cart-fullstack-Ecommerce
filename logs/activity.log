@@ -4,3 +4,4 @@
 [2026-04-29T04:58:39.815Z] handle missing env variable gracefully
 [2026-04-29T19:45:49.556Z] audit and fix npm security vulnerabilities
 [2026-04-29T19:54:33.660Z] clean up commented-out dead code
+[2026-04-29T20:04:06.703Z] reduce bundle size by tree-shaking unused imports
