@@ -7,3 +7,4 @@
 [2026-04-29T20:04:06.703Z] reduce bundle size by tree-shaking unused imports
 [2026-05-01T08:49:30.011Z] enforce trailing commas in config
 [2026-05-01T12:02:07.339Z] update GitHub Actions workflow to Node 20
+[2026-05-01T15:21:11.436Z] add regression test for pagination bug
