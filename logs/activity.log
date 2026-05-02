@@ -9,3 +9,4 @@
 [2026-05-01T12:02:07.339Z] update GitHub Actions workflow to Node 20
 [2026-05-01T15:21:11.436Z] add regression test for pagination bug
 [2026-05-02T08:55:06.962Z] add fallback for browsers without WebSocket support
+[2026-05-02T13:55:23.562Z] bump minor version for release prep
