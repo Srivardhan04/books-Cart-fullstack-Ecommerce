@@ -3,3 +3,4 @@
 [2026-05-05T12:11:35.860Z] implement input sanitization middleware
 [2026-05-06T11:48:32.540Z] add troubleshooting section to docs
 [2026-05-07T11:11:49.456Z] batch database writes for better throughput
+[2026-05-08T12:34:17.364Z] extract common utilities into shared helper
