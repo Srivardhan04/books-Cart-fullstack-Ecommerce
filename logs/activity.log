@@ -6,3 +6,4 @@
 [2026-05-08T12:34:17.364Z] extract common utilities into shared helper
 [2026-05-09T04:28:41.120Z] update changelog for v2.1 release
 [2026-05-10T11:39:15.748Z] remove unused packages from package.json
+[2026-05-10T15:53:18.923Z] extract magic numbers into named constants
