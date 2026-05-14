@@ -3,3 +3,4 @@
 [2026-05-13T03:46:13.206Z] simplify nested conditional blocks
 [2026-05-13T16:25:30.009Z] cache frequently accessed configuration values
 [2026-05-14T10:31:38.061Z] cache frequently accessed configuration values
+[2026-05-14T11:33:37.433Z] fix incorrect status code for validation errors
