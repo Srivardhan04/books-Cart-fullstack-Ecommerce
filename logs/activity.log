@@ -8,3 +8,4 @@
 [2026-05-15T04:50:14.178Z] update GitHub Actions workflow to Node 20
 [2026-05-16T06:58:34.490Z] enforce single quotes across codebase
 [2026-05-16T11:07:11.811Z] update seed data for local development
+[2026-05-17T11:02:16.684Z] fix flaky build caused by parallel test collision
