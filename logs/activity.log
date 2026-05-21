@@ -3,3 +3,4 @@
 [2026-05-19T15:33:57.993Z] clean up unused environment variables
 [2026-05-20T06:49:28.561Z] implement lazy loading for dashboard cards
 [2026-05-20T12:06:26.805Z] update lock file after dependency audit
+[2026-05-21T03:33:36.723Z] configure pre-commit hooks for linting
