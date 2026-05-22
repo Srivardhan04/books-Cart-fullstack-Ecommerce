@@ -5,3 +5,4 @@
 [2026-05-20T12:06:26.805Z] update lock file after dependency audit
 [2026-05-21T03:33:36.723Z] configure pre-commit hooks for linting
 [2026-05-22T08:21:28.147Z] add search with debounced input
+[2026-05-22T11:05:10.964Z] fix flaky build caused by parallel test collision
