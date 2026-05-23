@@ -7,3 +7,4 @@
 [2026-05-22T08:21:28.147Z] add search with debounced input
 [2026-05-22T11:05:10.964Z] fix flaky build caused by parallel test collision
 [2026-05-23T13:33:05.921Z] pin dependency versions for reproducible builds
+[2026-05-23T14:54:22.670Z] resolve null pointer in user validation
