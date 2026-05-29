@@ -3,3 +3,4 @@
 [2026-05-27T04:08:01.270Z] update error messages to be more user-friendly
 [2026-05-28T05:38:49.869Z] wip: save progress on feature branch
 [2026-05-28T12:34:32.549Z] optimize JSON serialization for large payloads
+[2026-05-29T12:09:23.877Z] improve error code reference table
