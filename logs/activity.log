@@ -4,3 +4,4 @@
 [2026-05-28T05:38:49.869Z] wip: save progress on feature branch
 [2026-05-28T12:34:32.549Z] optimize JSON serialization for large payloads
 [2026-05-29T12:09:23.877Z] improve error code reference table
+[2026-05-30T05:52:44.365Z] adjust logging verbosity for production mode
